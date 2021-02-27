@@ -1,0 +1,21 @@
+.container {
+    border: #F8F8F8 solid 1px;
+    border-radius: 10px;
+    width: 50%;
+    height: 70%;
+    overflow: auto;
+    background: #fff;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
+.list {
+    list-style: none;
+    margin-top: 6rem;
+}
+
+/* style the search bar to make it fixed at top */
+.searchBar {
+    position: fixed;
+    width: inherit;
+}
+
